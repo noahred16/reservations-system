@@ -1,0 +1,5 @@
+[14-May-2020 19:09:20 America/Los_Angeles] PHP Fatal error:  Call to undefined function RandomString() in /home/racquetc/reserve/includes/add-member.inc.php on line 14
+[14-May-2020 21:52:13 America/Los_Angeles] PHP Warning:  require(dbh.inc.php): failed to open stream: No such file or directory in /home/racquetc/reserve/includes/add-member.inc.php on line 20
+[14-May-2020 21:52:13 America/Los_Angeles] PHP Fatal error:  require(): Failed opening required 'dbh.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/racquetc/reserve/includes/add-member.inc.php on line 20
+[14-May-2020 21:52:58 America/Los_Angeles] PHP Warning:  require(includes/dbh.inc.php): failed to open stream: No such file or directory in /home/racquetc/reserve/includes/add-member.inc.php on line 20
+[14-May-2020 21:52:58 America/Los_Angeles] PHP Fatal error:  require(): Failed opening required 'includes/dbh.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/racquetc/reserve/includes/add-member.inc.php on line 20
